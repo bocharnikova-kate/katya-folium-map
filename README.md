@@ -1,5 +1,7 @@
 # katya-folium-map
 
+https://bocharnikova-kate.github.io/katya-folium-map/
+
 # Карта посещаемости Центра ДНК во Владивостоке
 
 ## 📌 О проекте
